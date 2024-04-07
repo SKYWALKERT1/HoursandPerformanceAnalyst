@@ -19,7 +19,7 @@ Ensure you have Python installed on your machine along with the following librar
 - Pandas
 - Matplotlib
 - scikit-learn
-
+- Seaborn
 ### Installation
 
 Clone this repository to your local machine to get started with the analysis:
