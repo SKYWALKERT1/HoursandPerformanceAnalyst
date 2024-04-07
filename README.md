@@ -24,5 +24,5 @@ Ensure you have Python installed on your machine along with the following librar
 
 Clone this repository to your local machine to get started with the analysis:
 
-git clone https://github.com/yourusername/hours-and-performance-analysis.git
+git clone https://github.com/SKYWALKERT1/HoursandPerformanceAnalyst.git
 cd hours-and-performance-analysis
